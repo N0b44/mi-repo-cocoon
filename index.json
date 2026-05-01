@@ -1,0 +1,10 @@
+{
+  "name": "Mi Jingle Pack",
+  "entries": [
+    { 
+      "name": "Pokémon SoulSilver", 
+      "file": "jingles/soulsilver.mp3",
+      "regex": "pok[eé]mon.*soulsilver"
+    }
+  ]
+}
