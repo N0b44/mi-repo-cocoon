@@ -3,7 +3,7 @@
   "entries": [
     { 
       "name": "Pokémon SoulSilver", 
-      "file": "jingles/soulsilver.mp3",
+      "file": "lugia-cry.mp3",
       "regex": "pok[eé]mon.*soulsilver"
     }
   ]
