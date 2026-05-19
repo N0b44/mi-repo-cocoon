@@ -1,10 +1,20 @@
 {
-  "name": "Mi Jingle Pack",
+  "name": "Cuicatl Jingle Pack",
   "entries": [
-    { 
-      "name": "Pokémon SoulSilver", 
+    {
+      "name": "Pokémon SoulSilver",
       "file": "jingles/lugia-cry.mp3",
       "regex": "pok[eé]mon.*soulsilver"
+    },
+    {
+      "name": "Osu! Tatakae! Ouendan",
+      "file": "jingles/tatakae-jrock.mp3",
+      "regex": "osu.*tatakae|ouendan"
+    },
+    {
+      "name": "Elite Beat Agents",
+      "file": "jingles/eba-motivation.mp3",
+      "regex": "elite.*beat.*agents|eba"
     }
   ]
 }
