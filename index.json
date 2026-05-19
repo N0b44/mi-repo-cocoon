@@ -8,7 +8,7 @@
     },
     {
       "name": "Osu! Tatakae! Ouendan",
-      "file": "jingles/tatakae-jrock.mp3",
+      "file": "jingles/扉を叩け.mp3",
       "regex": "osu.*tatakae|ouendan"
     },
     {
