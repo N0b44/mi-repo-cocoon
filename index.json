@@ -13,7 +13,7 @@
     },
     {
       "name": "Elite Beat Agents",
-      "file": "jingles/eba-motivation.mp3",
+      "file": "jingles/Final_Attack.mp3",
       "regex": "elite.*beat.*agents|eba"
     }
   ]
